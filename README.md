@@ -57,8 +57,6 @@ Some of the main findings from this project were:
 ### Top Artists
 ![Top Artists](charts/top_artists.png)
 
-### Top Songs
-![Top Songs](charts/top_songs.png)
 
 ### Listening by Hour of Day
 ![Listening by Hour of Day](charts/listening_by_hour.png)
