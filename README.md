@@ -60,12 +60,6 @@ Some of the main findings from this project were:
 ### Top Songs
 ![Top Songs](charts/top_songs.png)
 
-### Listening Over Time
-![Listening Over Time](charts/monthly_listening.png)
-
-### Listening by Day of Week
-![Listening by Day of Week](charts/listening_by_day.png)
-
 ### Listening by Hour of Day
 ![Listening by Hour of Day](charts/listening_by_hour.png)
 
